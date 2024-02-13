@@ -10,7 +10,7 @@ O arquivo de entrada do autômato deverá estar no seguinte formato:
 `#Estado Inicial` \
 `#Número F de estados finais` \
 `#Estados Finais` \
-`#N´umero S de símbolos do alfabeto` \
+`#Número S de símbolos do alfabeto` \
 `#Símbolos (separados por espaço)` \
 `#Número M de transições` \
 `#Transições (estado_atual símbolo estado_destino)` \
