@@ -13,4 +13,4 @@ x y z w
 3 z 2
 4 w 1
 4 x 3
-xyzyxw
+xwxyxw
